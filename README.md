@@ -45,7 +45,3 @@ MIT - Personal research only. Not for production/commercial use.
 | r/ERP        | Integration issues | "ERP won't sync with CRM"      | 9/10  |
 ```
 
-**For Reddit API approval: Attach this README + JSON export.** Demonstrates transparent, compliant personal research tool.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/29545872/813e1ed5-7bff-469d-ae4a-a5ce76b79862/Pain-Point-hunter.json)
-[2](https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy)
